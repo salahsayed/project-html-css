@@ -1,0 +1,251 @@
+.content
+{
+	width:1200px;
+	margin:0px auto;
+	border-style:ridge;
+	border-color:red;
+}
+.head
+{
+	width:1200px;
+	height:60px;
+	background-color:black;
+	margin-bottom:5px;
+	
+}
+
+.im
+{
+	float:left;
+	border-right-style:ridge;
+	border-color:red;
+	margin-left:200px;
+	margin-top:15px;
+	padding-right:20px;
+}
+.im a 
+{
+	padding: 5px;
+}
+.im2
+{
+	float:left;
+	border-right-style:ridge;
+	border-color:red;
+	margin-top:15px;
+	padding-right:10px;
+	padding-left:10px;
+}
+.BODY
+{
+	
+
+	width:1200px;
+	height:1200px;
+}
+
+
+.foot
+{
+	clear:left;
+	width:800px;
+	height:110px;
+	background-color:black;
+	margin-left:200px;
+	margin-top:20px;
+}
+.F
+{
+	text-align:right;
+	margin-top:15px;
+	margin-right: 400px;
+}
+.ff
+{
+	text-align:right;
+	margin-top:15px;
+	margin-right: 500px;
+}
+
+
+
+.left
+{
+	clear:left;
+	width:200px;
+	height:1190px;
+	background-color:white;
+	float:left;
+}
+ #L
+{
+	margin:5%;
+	padding-top:10px;
+	
+}
+
+
+.right
+{
+	width:200px;
+	height:1190px;
+	background-color:gray;
+	clear:left;
+	position:relative;
+	bottom:100%;
+	left:1000px;
+	
+	
+}
+.center
+{
+	width:800px;
+	height:1190px;
+	background-color:white;
+	float:left;
+	
+}
+.R
+{
+	text-align:right;
+	background-color:gray;
+}
+.c
+{
+	text-align:right;
+	margin-left:-300px;
+	margin-right:300px;
+	font-size:20;
+	font-style:italic;
+	
+	
+}
+.h
+{
+	margin-left:10px;
+}
+
+.list li
+{     
+    
+	list-style-type:none;
+	text-align:right;
+	font-size: 18px;
+	float:right;
+	padding:20px;
+	color: gray;
+	background-color: black;
+	
+	
+}
+.list a:hover li
+{
+	color: blue;
+	background-color: darkgreen
+}
+
+
+
+.LL
+{
+	clear:right;
+	width:300px;
+	height:900px;
+	background-color:white;
+	float:left;
+	margin-top:5px;
+}
+.form
+{
+	text-align:right;
+	margin-top:30px;
+	margin-right:10px;
+}
+.im5
+{
+	text-align:right
+}
+#kk
+{
+	text-align:right;
+	margin-top:10px;
+}
+#kk h4
+{
+	color:red;
+}
+.ss
+{
+	margin:10px 50px;
+	background-color:gray;
+}
+.A
+{
+	text-align:right;
+	background-color:gray;
+	padding:5px 20px;
+
+}
+.AA
+{
+	margin-top:5px;
+	text-align:right;
+	overflow:- x;
+	overflow:scroll;
+	padding-right:10px;
+	height:200px;
+	border-top-color:red;
+	border-top-style:ridge;
+}
+.RR
+{
+	width:480px;
+	height:900px;
+	background-color:white;
+	position:relative;
+	left:310px;
+	top:-905;
+	text-align:top-left;
+	clear :left;
+	
+}
+.g
+{
+	text-align:right
+	
+}
+.g p
+{
+	font-size:20;
+	color:red;
+}
+.im3
+{
+	margin:10px 150px; 
+}
+.hh
+{
+	margin-left:50px;
+   text-align:right;
+   float:right;
+}
+.hhh
+{
+	text-align:right;
+	clear:float;
+}
+.gr
+{
+	text-align:right;
+	background-color:gray;
+	margin-top:5px;
+	margin-right:5px;
+}
+.End
+{
+	text-align:right;
+	margin-top:20px;
+	margin-right:5px;
+	width:150px;
+	float:left;
+}
